@@ -1,0 +1,25 @@
+{
+ "milestone": "M1",
+ "strategy": "nolimit_strategy_200bb_250k.pkl",
+ "hands": 9999,
+ "seed": 20260820,
+ "units": "mbb/hand",
+ "win_rate": -997.7997799779978,
+ "ci95": 396.0729104194265,
+ "baseline_differenced": -156.4156415641564,
+ "baseline_differenced_ci95": 310.51827239090915,
+ "baseline_note": "Slumbot's baseline_winnings differenced from actual. Interpretation unverified; not the reported result.",
+ "lookup_miss_rate": 0.1188486158111469,
+ "off_abstraction": 609,
+ "seats": {
+  "0": 5000,
+  "1": 4999
+ },
+ "protocol_errors": [
+  "hand 5332: new_hand failed after 3 attempts: <urlopen error [Errno -3] Temporary failure in name resolution>"
+ ],
+ "caveat": "200bb one-raise-per-street solver against Slumbot's 200bb unlimited-raise game",
+ "segments": 2,
+ "provenance": "Hands played 9 September 09:34 to 10 September 01:53 IST in one segment. report() raised NameError on its last print line, so no result JSON was written and SessionStats was never checkpointed. misses/consulted/off_abstraction recovered verbatim from pokerbot-scratch/slumbot_200bb.log ('lookup miss rate 11.9% (2915/24527)', 'off-abstraction 609'); SessionStats.hands, .decisions and .actions_sent were not printed and are left at zero. Winnings and seat counts are the run's own checkpoint, untouched.",
+ "elapsed_seconds": 44354.00314736366
+}

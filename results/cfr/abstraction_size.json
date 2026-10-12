@@ -1,0 +1,89 @@
+{
+  "budget_mb": 1024.0,
+  "rows": [
+    {
+      "raise_cap": 1,
+      "buckets": 4,
+      "information_sets": 32800,
+      "megabytes": 3.1488,
+      "fits_budget": true
+    },
+    {
+      "raise_cap": 1,
+      "buckets": 8,
+      "information_sets": 65600,
+      "megabytes": 6.2976,
+      "fits_budget": true
+    },
+    {
+      "raise_cap": 1,
+      "buckets": 20,
+      "information_sets": 164000,
+      "megabytes": 15.744,
+      "fits_budget": true
+    },
+    {
+      "raise_cap": 1,
+      "buckets": 50,
+      "information_sets": 410000,
+      "megabytes": 39.36,
+      "fits_budget": true
+    },
+    {
+      "raise_cap": 2,
+      "buckets": 4,
+      "information_sets": 5040160,
+      "megabytes": 483.85536,
+      "fits_budget": true
+    },
+    {
+      "raise_cap": 2,
+      "buckets": 8,
+      "information_sets": 10080320,
+      "megabytes": 967.71072,
+      "fits_budget": true
+    },
+    {
+      "raise_cap": 2,
+      "buckets": 20,
+      "information_sets": 25200800,
+      "megabytes": 2419.2768,
+      "fits_budget": false
+    },
+    {
+      "raise_cap": 2,
+      "buckets": 50,
+      "information_sets": 63002000,
+      "megabytes": 6048.192,
+      "fits_budget": false
+    },
+    {
+      "raise_cap": 3,
+      "buckets": 4,
+      "information_sets": 495552544,
+      "megabytes": 47573.044224,
+      "fits_budget": false
+    },
+    {
+      "raise_cap": 3,
+      "buckets": 8,
+      "information_sets": 991105088,
+      "megabytes": 95146.088448,
+      "fits_budget": false
+    },
+    {
+      "raise_cap": 3,
+      "buckets": 20,
+      "information_sets": 2477762720,
+      "megabytes": 237865.22112,
+      "fits_budget": false
+    },
+    {
+      "raise_cap": 3,
+      "buckets": 50,
+      "information_sets": 6194406800,
+      "megabytes": 594663.0528,
+      "fits_budget": false
+    }
+  ]
+}

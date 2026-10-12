@@ -1,0 +1,21 @@
+{
+ "milestone": "M1",
+ "strategy": "nolimit_strategy_150k.pkl",
+ "hands": 10000,
+ "seed": 20260901,
+ "units": "mbb/hand",
+ "win_rate": -986.5500000000001,
+ "ci95": 374.0678450652591,
+ "baseline_differenced": 384.05,
+ "baseline_differenced_ci95": 347.9307195245836,
+ "baseline_note": "Slumbot's baseline_winnings differenced from actual. Interpretation unverified; not the reported result.",
+ "lookup_miss_rate": 0.10389872192879894,
+ "off_abstraction": 273,
+ "seats": {
+  "0": 5000,
+  "1": 5000
+ },
+ "protocol_errors": [],
+ "caveat": "100bb one-raise-per-street solver against a 200bb unlimited-raise opponent; not this project's strength at Slumbot's game.",
+ "elapsed_seconds": 35524.878848314285
+}

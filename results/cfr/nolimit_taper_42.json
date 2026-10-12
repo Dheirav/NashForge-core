@@ -1,0 +1,42 @@
+{
+  "args": {
+    "iterations": 6522195,
+    "buckets": 6,
+    "raise_cap": [
+      4,
+      2
+    ],
+    "stack": 200,
+    "big_blind": 2,
+    "abstraction_samples": 800,
+    "equity_samples": 40,
+    "eval_hands": 20000,
+    "seed": 0,
+    "output": "results/cfr/nolimit_taper_42.pkl",
+    "native": true
+  },
+  "results": {
+    "uniform random": {
+      "chips_per_hand": 4.80115,
+      "stderr": 0.2468074930604955,
+      "ci95": [
+        4.317407313601429,
+        5.284892686398571
+      ],
+      "bb_per_100": 240.0575,
+      "separated_from_zero": true
+    },
+    "always call": {
+      "chips_per_hand": 4.04875,
+      "stderr": 0.13490221403758582,
+      "ci95": [
+        3.784341660486332,
+        4.313158339513668
+      ],
+      "bb_per_100": 202.4375,
+      "separated_from_zero": true
+    }
+  },
+  "information_sets_reached": 80517,
+  "seconds": 4277.875687529013
+}

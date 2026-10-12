@@ -1,0 +1,4102 @@
+{
+ "hands": [
+  {
+   "action": "b200c/kb200c/b19600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "2d"
+   ],
+   "board": [
+    "Ah",
+    "9c",
+    "8h",
+    "4d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ad",
+    "Kh"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/kb200c/kk/kk",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ac",
+    "8d"
+   ],
+   "board": [
+    "Kh",
+    "Kc",
+    "8c",
+    "2s",
+    "7h"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kk/b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7h",
+    "2h"
+   ],
+   "board": [
+    "5c",
+    "3d",
+    "2s",
+    "Td"
+   ],
+   "winnings": -200,
+   "baseline_winnings": 1400
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8h",
+    "4d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "ck/kk/kb200c/kk",
+   "client_pos": 1,
+   "hole_cards": [
+    "7h",
+    "5s"
+   ],
+   "board": [
+    "Kh",
+    "Qs",
+    "8d",
+    "9c",
+    "Td"
+   ],
+   "winnings": -300,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "As",
+    "Qc"
+   ],
+   "board": [
+    "6d",
+    "6c",
+    "2s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ac",
+    "Kd"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Td",
+    "4h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b300b900f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8d",
+    "7h"
+   ],
+   "board": [],
+   "winnings": -300,
+   "baseline_winnings": 900
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jh",
+    "3c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -500
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9d",
+    "2d"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8c",
+    "4h"
+   ],
+   "board": [
+    "7s",
+    "6s",
+    "3d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300c/kb300c/kk/kb600c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Js",
+    "2c"
+   ],
+   "board": [
+    "Ah",
+    "4s",
+    "3d",
+    "7c",
+    "9h"
+   ],
+   "winnings": -1200,
+   "baseline_winnings": -800
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7c",
+    "2c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -500
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "7h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -4700
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "Qs"
+   ],
+   "board": [
+    "Jc",
+    "7d",
+    "6d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 2000
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6c",
+    "2h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200c/b200c/b400c/b19200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "8c"
+   ],
+   "board": [
+    "Qh",
+    "Qc",
+    "3h",
+    "2d",
+    "As"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b500b1500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "8d"
+   ],
+   "board": [],
+   "winnings": -500,
+   "baseline_winnings": 700
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8h",
+    "2h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jh",
+    "Ts"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kh",
+    "Td"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200c/kb200c/b19600c/",
+   "client_pos": 0,
+   "hole_cards": [
+    "Tc",
+    "7s"
+   ],
+   "board": [
+    "Kc",
+    "8s",
+    "7d",
+    "Jd",
+    "6d"
+   ],
+   "winnings": -20000,
+   "baseline_winnings": -19600
+  },
+  {
+   "action": "b500b1500c/kb18500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qc",
+    "Ts"
+   ],
+   "board": [
+    "9c",
+    "6d",
+    "3s"
+   ],
+   "winnings": 1500,
+   "baseline_winnings": 1300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qh",
+    "Jd"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/kk/b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "6h"
+   ],
+   "board": [
+    "Ks",
+    "8d",
+    "2c",
+    "9h"
+   ],
+   "winnings": -200,
+   "baseline_winnings": -600
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jd",
+    "3s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b300c/kb600c/kb3600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7h",
+    "4s"
+   ],
+   "board": [
+    "Ad",
+    "Jc",
+    "4d",
+    "Kc"
+   ],
+   "winnings": 900,
+   "baseline_winnings": 950
+  },
+  {
+   "action": "b200c/kb200c/b19600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Th",
+    "7s"
+   ],
+   "board": [
+    "Td",
+    "5d",
+    "2s",
+    "Kd"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200b600c/kb1200c/kb18200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9s",
+    "2h"
+   ],
+   "board": [
+    "Ah",
+    "Ks",
+    "8d",
+    "6d"
+   ],
+   "winnings": 1800,
+   "baseline_winnings": 1850
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4c",
+    "2c"
+   ],
+   "board": [
+    "Kd",
+    "Tc",
+    "3d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b300c/kb300c/kb600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qh",
+    "5s"
+   ],
+   "board": [
+    "Kc",
+    "7d",
+    "7c",
+    "Kd"
+   ],
+   "winnings": 600,
+   "baseline_winnings": 800
+  },
+  {
+   "action": "b200c/b400c/b600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "6d",
+    "5h"
+   ],
+   "board": [
+    "Kc",
+    "7s",
+    "2s",
+    "Qc"
+   ],
+   "winnings": 600,
+   "baseline_winnings": 800
+  },
+  {
+   "action": "cb300c/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "2c"
+   ],
+   "board": [
+    "Qh",
+    "5s",
+    "3c"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 5700
+  },
+  {
+   "action": "b200c/kb200c/b1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8c",
+    "7h"
+   ],
+   "board": [
+    "Ah",
+    "7c",
+    "2c",
+    "Kh"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "cb300c/kk/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8h",
+    "3s"
+   ],
+   "board": [
+    "6d",
+    "4c",
+    "2s",
+    "5c"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 350
+  },
+  {
+   "action": "b200c/b200c/b400c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ac",
+    "4c"
+   ],
+   "board": [
+    "7h",
+    "6s",
+    "4s",
+    "Ks",
+    "Ts"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 4400
+  },
+  {
+   "action": "cb300c/b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9h",
+    "4c"
+   ],
+   "board": [
+    "Ks",
+    "Tc",
+    "5s"
+   ],
+   "winnings": -300,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/kb200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9c",
+    "7h"
+   ],
+   "board": [
+    "Js",
+    "7d",
+    "5h"
+   ],
+   "winnings": -200,
+   "baseline_winnings": 200
+  },
+  {
+   "action": "b200b600c/kb600c/kb4800c/kb12000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7d",
+    "3c"
+   ],
+   "board": [
+    "8d",
+    "4h",
+    "2c",
+    "Jc",
+    "Kd"
+   ],
+   "winnings": 6000,
+   "baseline_winnings": 6050
+  },
+  {
+   "action": "b200c/b200c/kb400c/b3200c",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ks",
+    "4c"
+   ],
+   "board": [
+    "Qc",
+    "7c",
+    "2d",
+    "6d",
+    "Ah"
+   ],
+   "winnings": -4000,
+   "baseline_winnings": -3800
+  },
+  {
+   "action": "b300c/kk/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8d",
+    "3c"
+   ],
+   "board": [
+    "Qs",
+    "Qd",
+    "8h",
+    "2s"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 350
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ah",
+    "Jc"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200c/kb200c/kb400f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "3d"
+   ],
+   "board": [
+    "8c",
+    "4c",
+    "2d",
+    "8d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": -400
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Js",
+    "9s"
+   ],
+   "board": [
+    "Qd",
+    "Jc",
+    "Ts"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Th",
+    "7c"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": -250
+  },
+  {
+   "action": "b200c/kb200c/b1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "2d"
+   ],
+   "board": [
+    "Kc",
+    "6d",
+    "5h",
+    "4d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 600
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ts",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9c",
+    "3h"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6d",
+    "3h"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": -450
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7s",
+    "3d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb400f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9c",
+    "2c"
+   ],
+   "board": [
+    "Ah",
+    "Kd",
+    "Th"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ts",
+    "2h"
+   ],
+   "board": [
+    "Td",
+    "6c",
+    "2c"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 1400
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "4s",
+    "2h"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qc",
+    "Jh"
+   ],
+   "board": [
+    "Kc",
+    "4d",
+    "3h"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 1000
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qh",
+    "4h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "3h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "As",
+    "Jc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -700
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jh",
+    "6c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Js",
+    "7c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Th",
+    "5d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "ck/kb100f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kd",
+    "9h"
+   ],
+   "board": [
+    "Th",
+    "7c",
+    "5c"
+   ],
+   "winnings": 100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb200c/kb800c/b2400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9h",
+    "7s"
+   ],
+   "board": [
+    "Ah",
+    "7d",
+    "6d",
+    "5d",
+    "6h"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 1600
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7s",
+    "3h"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kh",
+    "6h"
+   ],
+   "board": [
+    "Jh",
+    "7c",
+    "3c"
+   ],
+   "winnings": -200,
+   "baseline_winnings": 1000
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9c",
+    "6h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Js",
+    "Ts"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200c/b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9d",
+    "8h"
+   ],
+   "board": [
+    "Jd",
+    "Ts",
+    "6d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "cb300c/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "Jh"
+   ],
+   "board": [
+    "6d",
+    "4s",
+    "4h"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 2100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ah",
+    "Qs"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "5s"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "4c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -500
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ks",
+    "Jh"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Tc",
+    "4s"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ts",
+    "7h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/kk/kk/b800c",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kh",
+    "5s"
+   ],
+   "board": [
+    "Kd",
+    "Qh",
+    "Jh",
+    "6d",
+    "9d"
+   ],
+   "winnings": -1000,
+   "baseline_winnings": -600
+  },
+  {
+   "action": "b200b600c/b600c/kk/kk",
+   "client_pos": 1,
+   "hole_cards": [
+    "9d",
+    "2d"
+   ],
+   "board": [
+    "Kc",
+    "8s",
+    "7h",
+    "2s",
+    "2h"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 1400
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kc",
+    "4d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "As",
+    "Ac"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/kk/b800c/b1000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "5d",
+    "2d"
+   ],
+   "board": [
+    "Ts",
+    "Th",
+    "9c",
+    "3s",
+    "Jd"
+   ],
+   "winnings": 1000,
+   "baseline_winnings": 1200
+  },
+  {
+   "action": "b300c/kb600c/kb1800c/kb2700c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kh",
+    "5s"
+   ],
+   "board": [
+    "7d",
+    "4d",
+    "3c",
+    "Th",
+    "7s"
+   ],
+   "winnings": -5400,
+   "baseline_winnings": -4200
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "5h"
+   ],
+   "board": [
+    "Qd",
+    "Ts",
+    "6d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "cb300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ad",
+    "5s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kd",
+    "9d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "cb300c/kb600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9d",
+    "6d"
+   ],
+   "board": [
+    "Qs",
+    "Js",
+    "3s"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kh",
+    "Jh"
+   ],
+   "board": [
+    "Js",
+    "5d",
+    "2s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -400
+  },
+  {
+   "action": "b500c/b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jh",
+    "8h"
+   ],
+   "board": [
+    "As",
+    "Ts",
+    "4h"
+   ],
+   "winnings": -500,
+   "baseline_winnings": -1100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "9d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/kk/kb200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8c",
+    "5s"
+   ],
+   "board": [
+    "Kc",
+    "7c",
+    "6s",
+    "2h"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qh",
+    "9d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 3500
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7s",
+    "7c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Td",
+    "7c"
+   ],
+   "board": [
+    "Kc",
+    "4s",
+    "4d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "Qc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9h",
+    "8s"
+   ],
+   "board": [
+    "Ah",
+    "Jh",
+    "2d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qd",
+    "Tc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -700
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kd",
+    "3s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/kk/b200c/b400c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kh",
+    "3c"
+   ],
+   "board": [
+    "9h",
+    "7d",
+    "4h",
+    "9s",
+    "Ac"
+   ],
+   "winnings": -800,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "4d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "ck/kb19900f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ad",
+    "9s"
+   ],
+   "board": [
+    "Jc",
+    "8s",
+    "6d"
+   ],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9d",
+    "8s"
+   ],
+   "board": [
+    "Ah",
+    "Js",
+    "2c"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200c/b200c/kb1600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ks",
+    "3c"
+   ],
+   "board": [
+    "Kc",
+    "Qc",
+    "3s",
+    "7c"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qh",
+    "5d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qc",
+    "9c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "3d"
+   ],
+   "board": [
+    "8s",
+    "3s",
+    "3h"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -3000
+  },
+  {
+   "action": "cb300c/kk/kb600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jd",
+    "2c"
+   ],
+   "board": [
+    "Qs",
+    "9s",
+    "7h",
+    "5d"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8d",
+    "2d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/kb800f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qd",
+    "7s"
+   ],
+   "board": [
+    "Ks",
+    "Qc",
+    "7c"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb200c/b19600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "3d"
+   ],
+   "board": [
+    "7s",
+    "4h",
+    "3s",
+    "2d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": -800
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200c/b200c/b400c/b1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "2h"
+   ],
+   "board": [
+    "Ah",
+    "Kc",
+    "Tc",
+    "7h",
+    "Ad"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 900
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "Jd"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -1100
+  },
+  {
+   "action": "b200c/b200b600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "As",
+    "9h"
+   ],
+   "board": [
+    "4h",
+    "4c",
+    "2d"
+   ],
+   "winnings": -400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "ck/kb400b1400f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6s",
+    "5s"
+   ],
+   "board": [
+    "Jh",
+    "7h",
+    "4c"
+   ],
+   "winnings": -500,
+   "baseline_winnings": -4100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8s",
+    "2c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kd",
+    "9h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qd",
+    "8c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -2500
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "As",
+    "Qc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 10900
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qc",
+    "8h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b300c/kb300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9h",
+    "3c"
+   ],
+   "board": [
+    "6c",
+    "5s",
+    "3d"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 350
+  },
+  {
+   "action": "b200c/b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jd",
+    "4s"
+   ],
+   "board": [
+    "6s",
+    "6d",
+    "4d",
+    "2d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300c/kb600c/kb3600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jh",
+    "2s"
+   ],
+   "board": [
+    "7c",
+    "4d",
+    "2c",
+    "4c"
+   ],
+   "winnings": 900,
+   "baseline_winnings": 1700
+  },
+  {
+   "action": "b200c/b400c/b1200b3000c/b16400c",
+   "client_pos": 0,
+   "hole_cards": [
+    "6c",
+    "3c"
+   ],
+   "board": [
+    "Ac",
+    "Jh",
+    "5h",
+    "4c",
+    "2s"
+   ],
+   "winnings": 20000,
+   "baseline_winnings": 20200
+  },
+  {
+   "action": "cb300c/b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Js",
+    "6h"
+   ],
+   "board": [
+    "As",
+    "Tc",
+    "5h"
+   ],
+   "winnings": -300,
+   "baseline_winnings": -700
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "5d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b300c/kk/kk/kb1200c",
+   "client_pos": 1,
+   "hole_cards": [
+    "6s",
+    "4c"
+   ],
+   "board": [
+    "8c",
+    "4d",
+    "3h",
+    "6d",
+    "As"
+   ],
+   "winnings": 1500,
+   "baseline_winnings": 1700
+  },
+  {
+   "action": "b200c/b800c/b1000c/b2000c",
+   "client_pos": 0,
+   "hole_cards": [
+    "8h",
+    "4c"
+   ],
+   "board": [
+    "Kc",
+    "Qh",
+    "2d",
+    "Ks",
+    "Jd"
+   ],
+   "winnings": -4000,
+   "baseline_winnings": -3600
+  },
+  {
+   "action": "b200c/kk/kb200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ac",
+    "Ts"
+   ],
+   "board": [
+    "6s",
+    "5d",
+    "3h",
+    "9s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb200c/b800b2000c/b4800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "As",
+    "6c"
+   ],
+   "board": [
+    "Ah",
+    "8s",
+    "6d",
+    "Kd",
+    "3s"
+   ],
+   "winnings": 2400,
+   "baseline_winnings": 1200
+  },
+  {
+   "action": "b200b600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qs",
+    "9c"
+   ],
+   "board": [],
+   "winnings": -200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200c/b800b1800c/b4000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Tc",
+    "8c"
+   ],
+   "board": [
+    "Jd",
+    "6d",
+    "3s",
+    "Qc"
+   ],
+   "winnings": 2000,
+   "baseline_winnings": 1800
+  },
+  {
+   "action": "b200b600c/kb1200c/kk/b1800f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6c",
+    "4s"
+   ],
+   "board": [
+    "8h",
+    "6h",
+    "4h",
+    "4d",
+    "2h"
+   ],
+   "winnings": -1800,
+   "baseline_winnings": -1600
+  },
+  {
+   "action": "b200c/kb200c/b1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jc",
+    "7d"
+   ],
+   "board": [
+    "Jd",
+    "6d",
+    "4c",
+    "Ah"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "ck/kb200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "Qd"
+   ],
+   "board": [
+    "9s",
+    "8d",
+    "5d"
+   ],
+   "winnings": 100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "5h",
+    "4h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 10700
+  },
+  {
+   "action": "b300b900c/kb900b2700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qc",
+    "Jd"
+   ],
+   "board": [
+    "Qh",
+    "Td",
+    "2d"
+   ],
+   "winnings": -1800,
+   "baseline_winnings": -3600
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4s",
+    "3d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/kb400c/kb2400f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qs",
+    "9d"
+   ],
+   "board": [
+    "Kc",
+    "8c",
+    "5c",
+    "9s"
+   ],
+   "winnings": 600,
+   "baseline_winnings": 1000
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Td",
+    "4s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8h",
+    "4c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Td",
+    "2s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "9d"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": -250
+  },
+  {
+   "action": "b200c/kb200c/b1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "As",
+    "Ac"
+   ],
+   "board": [
+    "Qh",
+    "6c",
+    "2s",
+    "2c"
+   ],
+   "winnings": 400,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b300c/kk/b300c/b600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7d",
+    "2h"
+   ],
+   "board": [
+    "Qc",
+    "Td",
+    "4d",
+    "Ks",
+    "8d"
+   ],
+   "winnings": -600,
+   "baseline_winnings": -550
+  },
+  {
+   "action": "b200c/kb200c/kk/kk",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qc",
+    "5d"
+   ],
+   "board": [
+    "Qd",
+    "8s",
+    "8c",
+    "9d",
+    "5h"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200b600c/b600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7h",
+    "6s"
+   ],
+   "board": [
+    "Kc",
+    "5c",
+    "4h"
+   ],
+   "winnings": -600,
+   "baseline_winnings": 4200
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ts",
+    "4c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jd",
+    "6d"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": -250
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7s",
+    "2d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7d",
+    "2c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200c/b800c/kb2000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kc",
+    "5h"
+   ],
+   "board": [
+    "Qd",
+    "9s",
+    "6c",
+    "8d"
+   ],
+   "winnings": -1000,
+   "baseline_winnings": -600
+  },
+  {
+   "action": "b300c/kb1200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "As",
+    "9c"
+   ],
+   "board": [
+    "Ad",
+    "9d",
+    "2c"
+   ],
+   "winnings": 300,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200c/b800c/b1000c/b8000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "2h"
+   ],
+   "board": [
+    "9h",
+    "6h",
+    "4s",
+    "9d",
+    "8s"
+   ],
+   "winnings": 2000,
+   "baseline_winnings": 2100
+  },
+  {
+   "action": "b300b900f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jd",
+    "8s"
+   ],
+   "board": [],
+   "winnings": -300,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Js",
+    "6c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/b200c/b400c/b1600c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ac",
+    "6d"
+   ],
+   "board": [
+    "Ad",
+    "5c",
+    "3d",
+    "8h",
+    "9s"
+   ],
+   "winnings": 2400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ah",
+    "2c"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jh",
+    "4h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4d",
+    "3h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b300b900c/kb900c/kb18200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qc",
+    "8c"
+   ],
+   "board": [
+    "6d",
+    "5d",
+    "4d",
+    "Ah"
+   ],
+   "winnings": 1800,
+   "baseline_winnings": 3600
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ts",
+    "8s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "b200c/kk/b200c/b800c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ks",
+    "7d"
+   ],
+   "board": [
+    "9s",
+    "9d",
+    "8d",
+    "2h",
+    "5d"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 1000
+  },
+  {
+   "action": "b200c/b200c/kk/b400c",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kd",
+    "9h"
+   ],
+   "board": [
+    "Qc",
+    "5c",
+    "2h",
+    "3h",
+    "4d"
+   ],
+   "winnings": -800,
+   "baseline_winnings": -400
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7d",
+    "3h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4c",
+    "3d"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Tc",
+    "7c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/kk/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8d",
+    "3d"
+   ],
+   "board": [
+    "As",
+    "Qs",
+    "4s",
+    "Ks"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 600
+  },
+  {
+   "action": "b300c/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jc",
+    "2d"
+   ],
+   "board": [
+    "5h",
+    "2s",
+    "2h"
+   ],
+   "winnings": 300,
+   "baseline_winnings": -900
+  },
+  {
+   "action": "b200c/b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jh",
+    "Ts"
+   ],
+   "board": [
+    "As",
+    "Qh",
+    "6s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -400
+  },
+  {
+   "action": "ck/kk/kb100b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "9d"
+   ],
+   "board": [
+    "Ks",
+    "8h",
+    "3s",
+    "Td"
+   ],
+   "winnings": -200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8s",
+    "3s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -900
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qs",
+    "Jc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -2300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Td",
+    "5c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Js",
+    "8h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "6c",
+    "5c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9d",
+    "6d"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -1100
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "Tc"
+   ],
+   "board": [
+    "9h",
+    "5d",
+    "4d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 600
+  },
+  {
+   "action": "b300b900c/kb19100f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ks",
+    "5h"
+   ],
+   "board": [
+    "Ad",
+    "7d",
+    "2d"
+   ],
+   "winnings": 900,
+   "baseline_winnings": 2700
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qc",
+    "5d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "ck/kk/kb19900f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ts",
+    "8c"
+   ],
+   "board": [
+    "Kd",
+    "4c",
+    "2h",
+    "Qs"
+   ],
+   "winnings": 100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qs",
+    "9s"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300c/kb300c/kb600c/kb18800f",
+   "client_pos": 1,
+   "hole_cards": [
+    "3h",
+    "3c"
+   ],
+   "board": [
+    "Jd",
+    "9d",
+    "2h",
+    "2s",
+    "4s"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 2400
+  },
+  {
+   "action": "b200c/b200c/kb400c/kb1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Th",
+    "9d"
+   ],
+   "board": [
+    "Ks",
+    "8s",
+    "4d",
+    "Kd",
+    "6c"
+   ],
+   "winnings": -800,
+   "baseline_winnings": -1000
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6s",
+    "4c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "3d"
+   ],
+   "board": [
+    "Ad",
+    "7h",
+    "2d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kh",
+    "Qd"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 900
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9d",
+    "2d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -3700
+  },
+  {
+   "action": "b300c/kb300c/kk/kk",
+   "client_pos": 1,
+   "hole_cards": [
+    "Th",
+    "3d"
+   ],
+   "board": [
+    "Qh",
+    "6d",
+    "4d",
+    "5d",
+    "5s"
+   ],
+   "winnings": -600,
+   "baseline_winnings": -1000
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kh",
+    "9c"
+   ],
+   "board": [
+    "Ks",
+    "Kc",
+    "7d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "cb300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ad",
+    "2h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 1100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Th",
+    "4s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6d",
+    "5s"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 700
+  },
+  {
+   "action": "b200c/b800c/b1000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4c",
+    "3c"
+   ],
+   "board": [
+    "Ah",
+    "Ad",
+    "Jd",
+    "Jh"
+   ],
+   "winnings": 1000,
+   "baseline_winnings": 1600
+  },
+  {
+   "action": "b300b900f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "8h"
+   ],
+   "board": [],
+   "winnings": -300,
+   "baseline_winnings": 4500
+  },
+  {
+   "action": "b200c/kk/b400c/b600b3000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kc",
+    "6c"
+   ],
+   "board": [
+    "9d",
+    "4d",
+    "3h",
+    "Th",
+    "7c"
+   ],
+   "winnings": -1200,
+   "baseline_winnings": -1400
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "Qd"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "b200c/b200c/b400c/b3200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "6c"
+   ],
+   "board": [
+    "Qc",
+    "4d",
+    "2d",
+    "6h",
+    "Kh"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qc",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -1100
+  },
+  {
+   "action": "b200c/kk/kk/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4h",
+    "2c"
+   ],
+   "board": [
+    "Ad",
+    "5s",
+    "3s",
+    "2d",
+    "Ts"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kk/kb400f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Th",
+    "2h"
+   ],
+   "board": [
+    "7s",
+    "6d",
+    "3s",
+    "Td"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b200c/b200b600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jh",
+    "8c"
+   ],
+   "board": [
+    "9s",
+    "6d",
+    "5s"
+   ],
+   "winnings": -400,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b500c/b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kh",
+    "Qc"
+   ],
+   "board": [
+    "Jh",
+    "Jd",
+    "6s"
+   ],
+   "winnings": -500,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8d",
+    "4s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -900
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jd",
+    "2h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/kk/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9d",
+    "3d"
+   ],
+   "board": [
+    "Jh",
+    "8h",
+    "3h",
+    "Ah"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb400c/kk/b1200c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ks",
+    "7s"
+   ],
+   "board": [
+    "Kc",
+    "Jc",
+    "5h",
+    "6d",
+    "Th"
+   ],
+   "winnings": -1800,
+   "baseline_winnings": -600
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ah",
+    "Th"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "Tc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200c/kb200c/kb800c/b18800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8h",
+    "8c"
+   ],
+   "board": [
+    "Ts",
+    "5h",
+    "4c",
+    "Qh",
+    "Qd"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 3600
+  },
+  {
+   "action": "b300c/kb300c/kb600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kc",
+    "Ts"
+   ],
+   "board": [
+    "9c",
+    "6s",
+    "5h",
+    "5s"
+   ],
+   "winnings": 600,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qc",
+    "2d"
+   ],
+   "board": [
+    "6d",
+    "6c",
+    "2s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b200c/kk/kb200c/kb400b2000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qh",
+    "7h"
+   ],
+   "board": [
+    "Ad",
+    "8h",
+    "7c",
+    "2c",
+    "4s"
+   ],
+   "winnings": -800,
+   "baseline_winnings": -400
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7s",
+    "2s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kh",
+    "Qc"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9h",
+    "3d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9s",
+    "7h"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ac",
+    "Jd"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -3700
+  },
+  {
+   "action": "b300c/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8d",
+    "7c"
+   ],
+   "board": [
+    "9d",
+    "5h",
+    "4s"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 1500
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kc",
+    "Qd"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb400c/kb600c/kb2400f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kd",
+    "4c"
+   ],
+   "board": [
+    "Ac",
+    "6h",
+    "4d",
+    "9h",
+    "Qc"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 800
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Tc",
+    "3d"
+   ],
+   "board": [
+    "Ks",
+    "8h",
+    "4s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 1400
+  },
+  {
+   "action": "cb300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "5s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ts",
+    "9c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 1100
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6s",
+    "4c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "b200c/kb200c/kk/kb400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ac",
+    "8h"
+   ],
+   "board": [
+    "As",
+    "Qc",
+    "7h",
+    "Kd",
+    "Qd"
+   ],
+   "winnings": -400,
+   "baseline_winnings": -800
+  },
+  {
+   "action": "b200c/kb800f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Tc",
+    "3c"
+   ],
+   "board": [
+    "Ks",
+    "Kd",
+    "3h"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/b19800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jd",
+    "9h"
+   ],
+   "board": [
+    "Qs",
+    "6s",
+    "6d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -400
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qs",
+    "8c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/kb200c/b1600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kc",
+    "5h"
+   ],
+   "board": [
+    "Jc",
+    "5c",
+    "2s",
+    "Tc"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kh",
+    "3s"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kd",
+    "3c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "b200c/kb800c/kb1000b3000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jh",
+    "2d"
+   ],
+   "board": [
+    "4h",
+    "4d",
+    "3c",
+    "5c"
+   ],
+   "winnings": -2000,
+   "baseline_winnings": -1600
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "7d",
+    "6h"
+   ],
+   "board": [
+    "Th",
+    "4c",
+    "2s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8d",
+    "6s"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200c/kk/b800c/b19000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ac",
+    "2d"
+   ],
+   "board": [
+    "Ad",
+    "7h",
+    "6h",
+    "8d",
+    "8h"
+   ],
+   "winnings": 1000,
+   "baseline_winnings": 200
+  },
+  {
+   "action": "f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qh",
+    "5s"
+   ],
+   "board": [],
+   "winnings": -50,
+   "baseline_winnings": -250
+  },
+  {
+   "action": "b200c/kb200c/b19600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9c",
+    "6c"
+   ],
+   "board": [
+    "Ac",
+    "6s",
+    "5c",
+    "4c"
+   ],
+   "winnings": 400,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b200b600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "4s"
+   ],
+   "board": [],
+   "winnings": -200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b200c/b200c/b400c/kk",
+   "client_pos": 0,
+   "hole_cards": [
+    "9c",
+    "8c"
+   ],
+   "board": [
+    "Js",
+    "Td",
+    "3s",
+    "Ah",
+    "Jc"
+   ],
+   "winnings": -800,
+   "baseline_winnings": -2000
+  },
+  {
+   "action": "b300b900c/kb19100f",
+   "client_pos": 1,
+   "hole_cards": [
+    "5s",
+    "2d"
+   ],
+   "board": [
+    "7h",
+    "6d",
+    "4h"
+   ],
+   "winnings": 900,
+   "baseline_winnings": 950
+  },
+  {
+   "action": "b200c/kk/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qc",
+    "9d"
+   ],
+   "board": [
+    "Qs",
+    "7h",
+    "5s",
+    "3d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Js",
+    "Ts"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "9h"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "ck/kb100f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kd",
+    "9d"
+   ],
+   "board": [
+    "Qd",
+    "7s",
+    "5c"
+   ],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ah",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 50,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kk/b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qs",
+    "3c"
+   ],
+   "board": [
+    "6h",
+    "4d",
+    "3d",
+    "Td"
+   ],
+   "winnings": -200,
+   "baseline_winnings": -600
+  },
+  {
+   "action": "b200c/b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9s",
+    "7h"
+   ],
+   "board": [
+    "Qd",
+    "Td",
+    "8h",
+    "3d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb400c/kb600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Tc",
+    "5s"
+   ],
+   "board": [
+    "Kd",
+    "8s",
+    "3h",
+    "9s"
+   ],
+   "winnings": 600,
+   "baseline_winnings": 1400
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "9h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 700
+  },
+  {
+   "action": "b300c/kb1200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ts",
+    "8h"
+   ],
+   "board": [
+    "9d",
+    "8s",
+    "7d"
+   ],
+   "winnings": 300,
+   "baseline_winnings": -900
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "4d",
+    "3s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 1100
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "5s",
+    "2s"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/b19800c//",
+   "client_pos": 0,
+   "hole_cards": [
+    "Js",
+    "9h"
+   ],
+   "board": [
+    "Ad",
+    "Jh",
+    "3s",
+    "9s",
+    "Jd"
+   ],
+   "winnings": 20000,
+   "baseline_winnings": 20600
+  },
+  {
+   "action": "b200b600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ts",
+    "6c"
+   ],
+   "board": [],
+   "winnings": -200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/b200c/kk/b400c",
+   "client_pos": 0,
+   "hole_cards": [
+    "Th",
+    "8c"
+   ],
+   "board": [
+    "Js",
+    "Tc",
+    "9c",
+    "8h",
+    "3h"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 5600
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "5d",
+    "3d"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -1100
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "6h",
+    "2s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200b600c/b600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jc",
+    "6c"
+   ],
+   "board": [
+    "9c",
+    "4c",
+    "3c"
+   ],
+   "winnings": -600,
+   "baseline_winnings": -1800
+  },
+  {
+   "action": "b200c/b200b600c/b3200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Kc",
+    "Qs"
+   ],
+   "board": [
+    "Qh",
+    "Ts",
+    "9h",
+    "5d"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 600
+  },
+  {
+   "action": "b300b900c/kb3600f",
+   "client_pos": 1,
+   "hole_cards": [
+    "6s",
+    "5h"
+   ],
+   "board": [
+    "5c",
+    "3d",
+    "2d"
+   ],
+   "winnings": 900,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b200c/kb200c/kb800c/b2400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ac",
+    "Qs"
+   ],
+   "board": [
+    "As",
+    "Tc",
+    "6s",
+    "4d",
+    "Ks"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 1000
+  },
+  {
+   "action": "b200c/kb400c/kb2400c/b3000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Js",
+    "7s"
+   ],
+   "board": [
+    "As",
+    "Ad",
+    "8s",
+    "Td",
+    "Th"
+   ],
+   "winnings": -3000,
+   "baseline_winnings": -3400
+  },
+  {
+   "action": "b200c/kb200c/b400c/b3200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qd",
+    "9c"
+   ],
+   "board": [
+    "Ks",
+    "Jc",
+    "2d",
+    "3c",
+    "3d"
+   ],
+   "winnings": 800,
+   "baseline_winnings": 1600
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9h",
+    "3c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8s",
+    "3h"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7c",
+    "4h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 150
+  },
+  {
+   "action": "b200c/b400c/b1200c/kk",
+   "client_pos": 0,
+   "hole_cards": [
+    "4h",
+    "4d"
+   ],
+   "board": [
+    "Td",
+    "9d",
+    "3h",
+    "3d",
+    "7c"
+   ],
+   "winnings": -1800,
+   "baseline_winnings": -600
+  },
+  {
+   "action": "b200c/kb200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kd",
+    "2h"
+   ],
+   "board": [
+    "Ts",
+    "9c",
+    "5d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "9s",
+    "3c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 300
+  },
+  {
+   "action": "cb300c/b300c/b600c/b1200c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ah",
+    "Ts"
+   ],
+   "board": [
+    "Qs",
+    "Qd",
+    "Jd",
+    "5d",
+    "3c"
+   ],
+   "winnings": 2400,
+   "baseline_winnings": 2000
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jd",
+    "Tc"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 1100
+  },
+  {
+   "action": "b200c/kk/kb19800f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ad",
+    "3c"
+   ],
+   "board": [
+    "Ah",
+    "Qc",
+    "8h",
+    "Ks"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb200c/b19600f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Tc",
+    "9d"
+   ],
+   "board": [
+    "Js",
+    "9h",
+    "2c",
+    "2d"
+   ],
+   "winnings": 400,
+   "baseline_winnings": 2800
+  },
+  {
+   "action": "b200c/kk/kb200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9h",
+    "6h"
+   ],
+   "board": [
+    "Ad",
+    "Ac",
+    "Qh",
+    "7s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 600
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jc",
+    "3d"
+   ],
+   "board": [
+    "8s",
+    "6c",
+    "5d"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "ck/kb200b500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "8d",
+    "6d"
+   ],
+   "board": [
+    "Td",
+    "7h",
+    "4c"
+   ],
+   "winnings": -300,
+   "baseline_winnings": -700
+  },
+  {
+   "action": "b200c/b200c/b400c/b1600c",
+   "client_pos": 0,
+   "hole_cards": [
+    "9c",
+    "8c"
+   ],
+   "board": [
+    "Qc",
+    "Ts",
+    "Td",
+    "Tc",
+    "4h"
+   ],
+   "winnings": -2400,
+   "baseline_winnings": -2600
+  },
+  {
+   "action": "b200c/kk/kb400b1000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Kd",
+    "4c"
+   ],
+   "board": [
+    "7s",
+    "7c",
+    "2h",
+    "Ah"
+   ],
+   "winnings": -600,
+   "baseline_winnings": -800
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ks",
+    "5c"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "cb300c/kk/b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9s",
+    "6s"
+   ],
+   "board": [
+    "7c",
+    "3s",
+    "2c",
+    "7h"
+   ],
+   "winnings": -300,
+   "baseline_winnings": -900
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ad",
+    "6d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -1300
+  },
+  {
+   "action": "b300f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qs",
+    "5c"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": 500
+  },
+  {
+   "action": "b200c/b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "5d",
+    "4h"
+   ],
+   "board": [
+    "9s",
+    "6c",
+    "3c"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 600
+  },
+  {
+   "action": "b300c/kb1200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Jd",
+    "6d"
+   ],
+   "board": [
+    "Ad",
+    "Td",
+    "6c"
+   ],
+   "winnings": 300,
+   "baseline_winnings": -100
+  },
+  {
+   "action": "b200c/kk/b800c/b19000f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jd",
+    "4d"
+   ],
+   "board": [
+    "9c",
+    "5c",
+    "4s",
+    "Kc",
+    "Jh"
+   ],
+   "winnings": 1000,
+   "baseline_winnings": -200
+  },
+  {
+   "action": "b200c/kk/b200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "9d",
+    "6c"
+   ],
+   "board": [
+    "Kd",
+    "4s",
+    "3c",
+    "Qc"
+   ],
+   "winnings": -200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Td",
+    "4s"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": -300
+  },
+  {
+   "action": "b300b900c/kk/kk/kk",
+   "client_pos": 1,
+   "hole_cards": [
+    "8s",
+    "4s"
+   ],
+   "board": [
+    "Kc",
+    "Js",
+    "9d",
+    "3s",
+    "Tc"
+   ],
+   "winnings": -900,
+   "baseline_winnings": -700
+  },
+  {
+   "action": "b200c/b200c/b800c/b4800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Jh",
+    "5h"
+   ],
+   "board": [
+    "Ad",
+    "Tc",
+    "9s",
+    "2c",
+    "Ah"
+   ],
+   "winnings": 1200,
+   "baseline_winnings": 1400
+  },
+  {
+   "action": "b200c/kk/kk/b200c",
+   "client_pos": 1,
+   "hole_cards": [
+    "Ts",
+    "6d"
+   ],
+   "board": [
+    "As",
+    "9d",
+    "3c",
+    "Js",
+    "9c"
+   ],
+   "winnings": -400,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/b400f",
+   "client_pos": 0,
+   "hole_cards": [
+    "8h",
+    "6h"
+   ],
+   "board": [
+    "Kd",
+    "9h",
+    "2s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b300c/kb19700f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Qd",
+    "2d"
+   ],
+   "board": [
+    "Qc",
+    "Ts",
+    "6s"
+   ],
+   "winnings": 300,
+   "baseline_winnings": 1100
+  },
+  {
+   "action": "b200c/b800f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Qh",
+    "3c"
+   ],
+   "board": [
+    "9d",
+    "8s",
+    "2h"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 400
+  },
+  {
+   "action": "b500b1500f",
+   "client_pos": 1,
+   "hole_cards": [
+    "Th",
+    "9h"
+   ],
+   "board": [],
+   "winnings": -500,
+   "baseline_winnings": -1700
+  },
+  {
+   "action": "b200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "Ks",
+    "3d"
+   ],
+   "board": [],
+   "winnings": -100,
+   "baseline_winnings": 100
+  },
+  {
+   "action": "b200c/kb200f",
+   "client_pos": 1,
+   "hole_cards": [
+    "5d",
+    "2d"
+   ],
+   "board": [
+    "Js",
+    "Th",
+    "8s"
+   ],
+   "winnings": 200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b200c/kb200f",
+   "client_pos": 0,
+   "hole_cards": [
+    "6s",
+    "5h"
+   ],
+   "board": [
+    "Qs",
+    "7d",
+    "2h"
+   ],
+   "winnings": -200,
+   "baseline_winnings": 0
+  },
+  {
+   "action": "b20000f",
+   "client_pos": 1,
+   "hole_cards": [
+    "7h",
+    "6h"
+   ],
+   "board": [],
+   "winnings": 100,
+   "baseline_winnings": -100
+  }
+ ],
+ "errors": [],
+ "decisions": 676,
+ "miss_rate": 0.09467455621301775,
+ "off_abstraction": 6,
+ "note": "PILOT \u2014 protocol shakedown. Not a result. The win rate over these hands is not to be quoted."
+}

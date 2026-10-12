@@ -1,0 +1,39 @@
+{
+  "args": {
+    "seconds": 90.0,
+    "seeds": 2,
+    "buckets": 6,
+    "raise_cap": 1,
+    "equity_samples": 40,
+    "eval_hands": 3000,
+    "output": "results/cfr/strength_signals.json"
+  },
+  "results": {
+    "equity": {
+      "iterations": 2087.5,
+      "ms_per_iteration": 44.05337502596616,
+      "infosets": 21257.0,
+      "vs_random": {
+        "mean": 6.324583333333333,
+        "stderr": 1.0412881654865407
+      },
+      "vs_always_call": {
+        "mean": 4.639916666666666,
+        "stderr": 1.685022770862692
+      }
+    },
+    "made_hand": {
+      "iterations": 11137.5,
+      "ms_per_iteration": 8.113976607391276,
+      "infosets": 24356.5,
+      "vs_random": {
+        "mean": 5.947,
+        "stderr": 0.817455823252083
+      },
+      "vs_always_call": {
+        "mean": 7.715833333333333,
+        "stderr": 1.318362725583918
+      }
+    }
+  }
+}

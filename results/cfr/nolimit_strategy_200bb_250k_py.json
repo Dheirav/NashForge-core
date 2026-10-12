@@ -1,0 +1,38 @@
+{
+  "args": {
+    "iterations": 250000,
+    "buckets": 6,
+    "raise_cap": 1,
+    "stack": 400,
+    "big_blind": 2,
+    "abstraction_samples": 800,
+    "equity_samples": 40,
+    "eval_hands": 20000,
+    "seed": 0,
+    "output": "results/cfr/nolimit_strategy_200bb_250k.pkl"
+  },
+  "results": {
+    "uniform random": {
+      "chips_per_hand": 9.642,
+      "stderr": 0.38418027054237663,
+      "ci95": [
+        8.889006669736942,
+        10.394993330263057
+      ],
+      "bb_per_100": 482.09999999999997,
+      "separated_from_zero": true
+    },
+    "always call": {
+      "chips_per_hand": 29.100025,
+      "stderr": 0.5306155298490561,
+      "ci95": [
+        28.06001856149585,
+        30.14003143850415
+      ],
+      "bb_per_100": 1455.00125,
+      "separated_from_zero": true
+    }
+  },
+  "information_sets_reached": 23970,
+  "seconds": 12613.892598786995
+}

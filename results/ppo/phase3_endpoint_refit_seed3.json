@@ -1,0 +1,136 @@
+{
+ "hands_per_matchup": 40000,
+ "eval_seed": 20260820,
+ "seeds": [
+  3
+ ],
+ "rungs": [
+  500000,
+  2000000,
+  8000000
+ ],
+ "panel": [
+  "random",
+  "always-call",
+  "cfr"
+ ],
+ "records": [
+  {
+   "seed": 3,
+   "hands_trained": 500000,
+   "rows": [
+    {
+     "opponent": "random",
+     "untrained": -1.9975,
+     "untrained_ci95": 26.04005240913575,
+     "trained": 243.450625,
+     "trained_ci95": 17.896808785086023,
+     "difference": 245.448125,
+     "difference_ci95": 31.59715326038833,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    },
+    {
+     "opponent": "always-call",
+     "untrained": -21.54625,
+     "untrained_ci95": 27.49905207751066,
+     "trained": 415.456875,
+     "trained_ci95": 23.191031987513067,
+     "difference": 437.003125,
+     "difference_ci95": 35.9725149219164,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    },
+    {
+     "opponent": "cfr",
+     "untrained": -364.260625,
+     "untrained_ci95": 24.277903897744388,
+     "trained": 20.901249999999997,
+     "trained_ci95": 17.01737079000675,
+     "difference": 385.161875,
+     "difference_ci95": 29.648061087914115,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    }
+   ]
+  },
+  {
+   "seed": 3,
+   "hands_trained": 2000000,
+   "rows": [
+    {
+     "opponent": "random",
+     "untrained": -1.9975,
+     "untrained_ci95": 26.04005240913575,
+     "trained": 76.3125,
+     "trained_ci95": 12.331374080653449,
+     "difference": 78.31,
+     "difference_ci95": 28.81227370735514,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    },
+    {
+     "opponent": "always-call",
+     "untrained": -21.54625,
+     "untrained_ci95": 27.49905207751066,
+     "trained": 208.77374999999998,
+     "trained_ci95": 11.996282764952934,
+     "difference": 230.32,
+     "difference_ci95": 30.001811034308414,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    },
+    {
+     "opponent": "cfr",
+     "untrained": -364.260625,
+     "untrained_ci95": 24.277903897744388,
+     "trained": 52.548125,
+     "trained_ci95": 12.911984467381146,
+     "difference": 416.80875000000003,
+     "difference_ci95": 27.49792647735469,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    }
+   ]
+  },
+  {
+   "seed": 3,
+   "hands_trained": 8000000,
+   "rows": [
+    {
+     "opponent": "random",
+     "untrained": -1.9975,
+     "untrained_ci95": 26.04005240913575,
+     "trained": 372.98875,
+     "trained_ci95": 19.04460942602262,
+     "difference": 374.98625,
+     "difference_ci95": 32.26114501471215,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    },
+    {
+     "opponent": "always-call",
+     "untrained": -21.54625,
+     "untrained_ci95": 27.49905207751066,
+     "trained": 75.07312499999999,
+     "trained_ci95": 15.267272055428696,
+     "difference": 96.61937499999999,
+     "difference_ci95": 31.452940421781197,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    },
+    {
+     "opponent": "cfr",
+     "untrained": -364.260625,
+     "untrained_ci95": 24.277903897744388,
+     "trained": 13.375625,
+     "trained_ci95": 16.862359094056178,
+     "difference": 377.63625,
+     "difference_ci95": 29.55936013997954,
+     "verdict": "improved",
+     "lookup_miss_rate": 0.0
+    }
+   ]
+  }
+ ]
+}

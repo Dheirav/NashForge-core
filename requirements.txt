@@ -1,0 +1,26 @@
+# What this project needs, and why each line is here.
+#
+# Written 24 September 2026, the morning after a cherry-pick carried a `venv`
+# symlink onto main, git deleted the real virtualenv to write it, and the
+# environment every lane runs on had to be rebuilt by reading import statements.
+# That took an hour and still missed scipy, which six tests found for me.
+#
+# Direct dependencies only. Everything else is transitive, and torch alone
+# pulls in forty CUDA packages that have no business in a file a person reads.
+#
+#   python3 -m venv venv && venv/bin/pip install -r requirements.txt
+#
+
+numpy==2.5.3    # everything; the strategy tables, the abstraction, every measurement
+numba==0.67.0    # the equity estimator on the hot path, compiled on first use
+scipy==1.18.1    # the evolutionary trainer's linear algebra (tests/test_invariants.py)
+websockets==17.1    # the arena connection
+requests==2.34.2    # the platform's REST endpoints: profiles and fixtures
+pytest==9.1.1    # the suite
+nanobind==3.1.0    # building native/ ; not needed to run a prebuilt module
+torch==2.14.0    # the PPO family in rl/
+pandas==3.0.6    # results tables in the reports
+matplotlib==3.11.2    # the figures
+pygame==2.6.1    # the GUI viewer
+python-docx==1.2.0    # the written deliverables
+python-pptx==1.0.2    # the slide deliverables

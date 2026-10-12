@@ -1,0 +1,50 @@
+{
+  "cap1:on-tree": {
+    "mean": -3.45875,
+    "stderr": 0.8194082020699816,
+    "ci95": [
+      -5.0647900760571645,
+      -1.8527099239428364
+    ],
+    "proves_exploitable": false,
+    "iterations": 59050,
+    "information_sets": 25089,
+    "seconds": 86.142959711
+  },
+  "cap1:off-tree": {
+    "mean": -0.97725,
+    "stderr": 0.8216863074876605,
+    "ci95": [
+      -2.5877551626758146,
+      0.6332551626758145
+    ],
+    "proves_exploitable": false,
+    "iterations": 59050,
+    "information_sets": 25089,
+    "seconds": 90.2274815560013
+  },
+  "cap2:on-tree": {
+    "mean": -2.89975,
+    "stderr": 1.051297008541751,
+    "ci95": [
+      -4.960292136741832,
+      -0.8392078632581681
+    ],
+    "proves_exploitable": false,
+    "iterations": 59050,
+    "information_sets": 446745,
+    "seconds": 51.19054674099971
+  },
+  "cap2:off-tree": {
+    "mean": -1.7485,
+    "stderr": 1.0921721104452433,
+    "ci95": [
+      -3.889157336472677,
+      0.3921573364726769
+    ],
+    "proves_exploitable": false,
+    "iterations": 59050,
+    "information_sets": 446745,
+    "seconds": 51.7918908190004
+  }
+}

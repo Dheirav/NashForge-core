@@ -1,0 +1,56 @@
+{
+ "hands_per_matchup": 40000,
+ "eval_seed": 20260820,
+ "units": "BB/100, big_blind 2",
+ "wall_clock_seconds": {
+  "evolution": 11383.209481999045,
+  "ppo": {
+   "500000": 10420.40393625701,
+   "2000000": 15779.019205786515,
+   "8000000": 37512.02680096018
+  }
+ },
+ "evolution": {
+  "random": {
+   "untrained": -13.4,
+   "untrained_ci95": 14.0,
+   "trained": 192.7,
+   "trained_ci95": 15.0,
+   "difference": 206.1,
+   "difference_ci95": 39.0,
+   "source": "phase2_endpoint.log"
+  },
+  "always-call": {
+   "untrained": -8.1,
+   "untrained_ci95": 14.0,
+   "trained": 0.5,
+   "trained_ci95": 4.0,
+   "difference": 8.6,
+   "difference_ci95": 28.0,
+   "source": "phase2_endpoint.log"
+  },
+  "cfr": {
+   "untrained": -403.9,
+   "untrained_ci95": 13.0,
+   "trained": -370.1,
+   "trained_ci95": 14.0,
+   "difference": 33.8,
+   "difference_ci95": 37.0,
+   "source": "phase2_cfr_row.log"
+  }
+ },
+ "cfr": {
+  "random": {
+   "bb_per_100": 383.62,
+   "ci95": 24.289402351068425,
+   "lookup_miss_rate": 0.00012037315678603672
+  },
+  "always-call": {
+   "bb_per_100": 719.625,
+   "ci95": 26.96930260477085,
+   "lookup_miss_rate": 0.0004887050489096013
+  }
+ },
+ "ppo_source": "phase3_endpoint_refit.json",
+ "cfr_strategy": "nolimit_strategy.pkl"
+}

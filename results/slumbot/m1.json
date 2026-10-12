@@ -1,0 +1,21 @@
+{
+ "milestone": "M1",
+ "hands": 10000,
+ "seed": 20260820,
+ "units": "mbb/hand",
+ "win_rate": -1750.25,
+ "ci95": 523.971667385568,
+ "baseline_differenced": -68.35,
+ "baseline_differenced_ci95": 301.2986272278075,
+ "baseline_note": "Slumbot's baseline_winnings differenced from actual. NOT an alternative estimate of the win rate: the baseline's own mean is -1681.9 mbb/hand, far from zero, so differencing changes the estimand rather than only the variance. It estimates how this agent did relative to Slumbot's baseline strategy holding the same cards, which is a different quantity. The reported win rate is win_rate.",
+ "lookup_miss_rate": 0.08695027994448964,
+ "off_abstraction": 413,
+ "seats": {
+  "0": 5000,
+  "1": 5000
+ },
+ "protocol_errors": [],
+ "caveat": "100bb one-raise-per-street solver against a 200bb unlimited-raise opponent; not this project's strength at Slumbot's game.",
+ "elapsed_seconds": 27780.933211565018,
+ "baseline_implied_mean": -1681.9
+}

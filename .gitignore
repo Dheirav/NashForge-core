@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+*.so
+*.log
+results/cfr/experiments/
+results/**/scratch/
+.claude/
+notes/
